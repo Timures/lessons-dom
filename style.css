@@ -1,0 +1,7 @@
+.test-hover {
+    padding: 20px;
+    min-width: 300px;
+    border: 1px solid blue;
+    margin: 16px;
+    max-width: 300px;
+}
